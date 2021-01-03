@@ -1,4 +1,4 @@
-# Cat Dog Classifier Using CNN with Heroku Deployment
+# Cat Dog Classifier Using CNN with Google Cloud Platform
 [Play with the App](https://dogcatclassifiergcp-300607.df.r.appspot.com)
 
 A simple Flask App that can classify an image as Dog or Cat
