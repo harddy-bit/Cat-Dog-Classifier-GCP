@@ -1,5 +1,5 @@
 # Cat Dog Classifier Using CNN with Google Cloud Platform
-[Play with the App](https://dogcatclassifiergcp-300607.df.r.appspot.com)(Temporary Down)
+[Play with the App](https://dogcatclassifiergcp-300607.df.r.appspot.com) (Temporary Down)
 
 A simple Flask App that can classify an image as Dog or Cat
 using a Convolutional Neural Network Model. I build this as a part of my Deep Learning course and
@@ -20,7 +20,7 @@ insult them :wink:
 * Tensorflow
 * Keras
 * Flask
-* Heroku
+* Google Cloud Platform
 
 
 <a href ="https://github.com/harddy-bit/Cat-Dog-Classification-Using-CNN">Cat Dog Classification Using CNN Repository</a> 
